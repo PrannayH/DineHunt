@@ -36,7 +36,7 @@ const RestaurantDetails = () => {
 
                 <h1 className="text-5xl font-bold mb-6 text-gray-800 relative z-10">{restaurant.name}</h1>
 
-                <div className="shadow-[10px_15px_15px_10px_rgba(253,36,62,0.2)] p-4 bg-white rounded-lg shadow-md hover:shadow-lg transition duration-200 col-span-full grid grid-rows-2 gap-2 mb-8">
+                <div className="shadow-[10px_15px_15px_10px_rgba(253,36,62,0.2)] p-4 bg-white rounded-lg hover:shadow-lg transition duration-200 col-span-full grid grid-rows-2 gap-2 mb-8">
 
                     <div className="flex justify-between">
                         <p className="text-lg font-semibold "><strong className="text-[#C8102E]">Aggregate Rating:</strong> {restaurant.aggregate_rating}</p>
