@@ -53,3 +53,18 @@ To start the React app, run:
 cd pes-Prannay/zomato-frontend
 npm start
 ```
+### Landing Page
+![WhatsApp Image 2024-10-30 at 12 01 57_33dfbc18](https://github.com/user-attachments/assets/80714da8-406b-4634-8950-eaad1bdad2d6)
+
+### Restaurant Details Page
+![WhatsApp Image 2024-10-30 at 12 02 30_ed452876](https://github.com/user-attachments/assets/a80078eb-f8be-4f79-b756-f40c71acbc33)
+
+### Search By Restaurant Name 
+![WhatsApp Image 2024-10-30 at 12 03 49_983808d7](https://github.com/user-attachments/assets/023bc720-5b98-4843-8629-67a8207bf2c8)
+
+### Search By Food Image
+![WhatsApp Image 2024-10-30 at 12 04 45_7105bc9d](https://github.com/user-attachments/assets/5586056b-5928-4c1b-8a70-282ad8b0747b)
+
+
+
+
